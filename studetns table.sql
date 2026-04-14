@@ -16,3 +16,10 @@ INSERT INTO students VALUES
 (5, 'John');
 
 select * from students;
+
+insert into students values
+(6,"Fahim"),
+(7,"Ashraf"),
+(8,"Zishan"),
+(9,"Saihan"),
+(10,"Affan");
